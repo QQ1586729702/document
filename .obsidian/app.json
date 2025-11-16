@@ -2,5 +2,7 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "showLineNumber": false,
-  "defaultViewMode": "source"
+  "defaultViewMode": "source",
+  "attachmentFolderPath": "resource",
+  "newFileLocation": "current"
 }

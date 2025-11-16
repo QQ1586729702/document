@@ -2,5 +2,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "dataview",
-  "editor-width-slider"
+  "editor-width-slider",
+  "mousewheel-image-zoom"
 ]

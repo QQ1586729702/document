@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b86849562fceecf9",
+        "id": "edbd7e5f1d39b726",
         "type": "tabs",
         "children": [
           {
-            "id": "81eef8edf1b36818",
+            "id": "99399527099715e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "代码知识/README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "新标签页"
             }
           }
         ]
@@ -61,7 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -129,11 +125,11 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
@@ -195,16 +191,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81eef8edf1b36818",
+  "active": "99399527099715e6",
   "lastOpenFiles": [
-    "README.md",
-    "代码知识/README.md",
     "认知科学/通用范式技能.md",
-    "代码知识/后端知识点/JPA缓存和对象管理机制.md",
-    "代码知识/后端知识点/JPA关联关系机制.md",
-    "代码知识/运维知识点/Nginx配置域名.md",
-    "代码知识/前端知识点/Vue组件重新挂载.md",
-    "代码知识/前端知识点/Promise回调函数.md",
+    "认知科学/README.md",
+    "工作理论知识/README.md",
+    "工作实践知识/README.md",
+    "工作理论知识/框架/spring/IOC和AOP.md",
+    "resource/clipboard (27).png",
+    "resource/clipboard (26).png",
+    "工作理论知识/开发/java基础/JAVA/Java多线程.md",
+    "工作理论知识/框架/spring",
+    "resource/clipboard (25).png",
+    "resource/clipboard (24).png",
+    "resource/clipboard (23).png",
+    "resource/clipboard (22).png",
+    "resource/clipboard (21).png",
+    "工作理论知识/开发/java基础/JAVA/Java编译型与解释型.md",
+    "resource/clipboard (20).png",
+    "工作理论知识/开发/java基础/JAVA/JDK JRE JVM.md",
+    "resource/clipboard (19).png",
+    "工作理论知识/开发/java基础/JAVA/Java反射机制.md",
+    "工作理论知识/开发/java基础/JAVA/Java的数据类型.md",
+    "resource/clipboard (18).png",
+    "工作理论知识/开发/java基础/JVM/类加载器和双亲委派机制.md",
+    "工作理论知识/开发/java基础/JVM/堆内存以及方法区.md",
+    "工作理论知识/开发/java基础/JVM/JVM栈.md",
+    "工作理论知识/开发/java基础/JVM/Native关键字.md",
+    "工作理论知识/开发/java基础/JVM/JVM体系结构.md",
+    "工作理论知识/开发/java基础/JVM/GC回收算法.md",
+    "工作实践知识/错误集合/java Jedis连接不上.md",
+    "工作理论知识/开发/java基础/JAVA",
+    "工作理论知识/开发/java基础/JVM",
+    "工作实践知识/错误集合/mysql 1142-权限不足错误.md",
+    "工作实践知识/错误集合/java 错误 不支持发行版本 5.md",
+    "resource",
+    "工作实践知识/错误集合",
+    "工作理论知识/开发/java.md",
+    "工作理论知识/框架",
+    "工作理论知识/开发/java基础",
+    "工作实践知识/后端知识点/JPA缓存和对象管理机制.md",
+    "工作理论知识/开发",
+    "工作实践知识/后端知识点/JPA关联关系机制.md",
+    "工作实践知识/运维知识点/Nginx配置域名.md",
+    "工作实践知识/前端知识点/Promise回调函数.md",
+    "工作实践知识/前端知识点/Vue组件重新挂载.md",
+    "工作理论知识",
+    "README.md",
     "Untitled.base"
   ]
 }
