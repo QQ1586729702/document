@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "认知科学/通用范式技能.md",
+                "file": "代码知识/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "通用范式技能"
+              "title": "README"
             }
           }
         ]
@@ -197,9 +197,14 @@
   },
   "active": "81eef8edf1b36818",
   "lastOpenFiles": [
+    "README.md",
+    "代码知识/README.md",
     "认知科学/通用范式技能.md",
-    "代码知识/后端知识点/JPA关联关系机制.md",
     "代码知识/后端知识点/JPA缓存和对象管理机制.md",
+    "代码知识/后端知识点/JPA关联关系机制.md",
+    "代码知识/运维知识点/Nginx配置域名.md",
+    "代码知识/前端知识点/Vue组件重新挂载.md",
+    "代码知识/前端知识点/Promise回调函数.md",
     "Untitled.base"
   ]
 }
