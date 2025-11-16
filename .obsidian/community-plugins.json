@@ -1,5 +1,6 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "editor-width-slider"
 ]
