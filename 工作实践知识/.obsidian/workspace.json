@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "694aa91280ae2f89",
+    "id": "50133e3c32014d85",
     "type": "split",
     "children": [
       {
-        "id": "a00edc531173649f",
+        "id": "76afcbac1ad5dc8b",
         "type": "tabs",
         "children": [
           {
-            "id": "bbd8490ad8f9bdd6",
+            "id": "00da99676f981a4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "错误集合/mysql 1142-权限不足错误.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "mysql 1142-权限不足错误"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d50e2889f8adaac7",
+    "id": "191aea9b1f4ccdb3",
     "type": "split",
     "children": [
       {
-        "id": "d21a3db55c34a5e7",
+        "id": "7238e354220aa81e",
         "type": "tabs",
         "children": [
           {
-            "id": "9945181766311814",
+            "id": "12d2a99c84977ad2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "f187120dfb6cef94",
+            "id": "88dfbe313d6dcdb4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "c13965d9b61c606e",
+            "id": "d947f9838d34411f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "9fca16b9328eda48",
+    "id": "5782c29043db0619",
     "type": "split",
     "children": [
       {
-        "id": "9dbfdd7a05f10ee3",
+        "id": "47b3b8b6b76fcc2f",
         "type": "tabs",
         "children": [
           {
-            "id": "bf707cd1db0de260",
+            "id": "3d0da6c247ca1c6a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "错误集合/mysql 1142-权限不足错误.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for mysql 1142-权限不足错误"
             }
           },
           {
-            "id": "6de361920865debe",
+            "id": "47c91249da27e5da",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "错误集合/mysql 1142-权限不足错误.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from mysql 1142-权限不足错误"
             }
           },
           {
-            "id": "b0fdabe3f7c47774",
+            "id": "fd77e2e59d47371e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +137,7 @@
             }
           },
           {
-            "id": "533c8832543394a8",
+            "id": "c250fa5b826ab74b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -145,31 +151,21 @@
             }
           },
           {
-            "id": "6759d1b82a4735da",
+            "id": "b8738b7def555f64",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "错误集合/mysql 1142-权限不足错误.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "9e58b8d2a3d138a6",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of mysql 1142-权限不足错误"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,52 +185,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbd8490ad8f9bdd6",
+  "active": "00da99676f981a4a",
   "lastOpenFiles": [
-    "工作理论知识/框架/spring/IOC和AOP.md",
-    "工作理论知识/resource/clipboard (12).png",
-    "工作理论知识/开发/java基础/JAVA/JDK JRE JVM.md",
-    "工作理论知识/resource/clipboard (19).png",
-    "工作理论知识/开发/java基础/JAVA/Java多线程.md",
-    "工作实践知识/错误集合/java Jedis连接不上.md",
-    "工作实践知识/resource/clipboard (3).png",
-    "工作实践知识/错误集合/java 错误 不支持发行版本 5.md",
-    "工作实践知识/resource/截图.png",
-    "工作实践知识/resource/截图 (5).png",
-    "工作实践知识/resource/clipboard.png",
-    "工作实践知识/resource/clipboard (1).png",
-    "工作实践知识/错误集合/mysql 1142-权限不足错误.md",
-    "工作实践知识/resource",
-    "工作实践知识/运维知识点/Nginx配置域名.md",
-    "工作实践知识/后端知识点/JPA缓存和对象管理机制.md",
-    "工作实践知识/后端知识点/JPA关联关系机制.md",
-    "工作实践知识/前端知识点/Vue组件重新挂载.md",
-    "工作实践知识/前端知识点/Promise回调函数.md",
-    "工作理论知识/README.md",
-    "工作理论知识/开发/java基础/JAVA/Java编译型与解释型.md",
-    "README.md",
-    "认知科学/通用范式技能.md",
-    "认知科学/README.md",
-    "认知科学",
-    "工作理论知识/开发/java基础/JVM/类加载器和双亲委派机制.md",
-    "工作理论知识/开发/java基础/JVM/堆内存以及方法区.md",
-    "工作理论知识/开发/java基础/JVM/Native关键字.md",
-    "工作理论知识/开发/java基础/JVM/JVM栈.md",
-    "工作理论知识/开发/java基础/JVM/JVM体系结构.md",
-    "工作理论知识/开发/java基础/JVM/GC回收算法.md",
-    "工作理论知识/开发/java基础/JAVA/Java的数据类型.md",
-    "工作理论知识/开发/java基础/JAVA/Java反射机制.md",
-    "工作理论知识/开发/java基础/JVM",
-    "工作理论知识/开发/java基础/JAVA",
-    "工作理论知识/框架/spring",
-    "工作理论知识/开发/java基础",
-    "工作理论知识/框架",
-    "工作理论知识/开发",
-    "工作理论知识",
-    "工作实践知识/错误集合",
-    "工作实践知识/README.md",
-    "工作实践知识/resource/截图 (4).png",
-    "工作实践知识/resource/截图 (3).png",
-    "工作实践知识/resource/截图 (1).png"
+    "错误集合/java 错误 不支持发行版本 5.md",
+    "错误集合/java Jedis连接不上.md",
+    "后端知识点/JPA缓存和对象管理机制.md",
+    "后端知识点/JPA关联关系机制.md",
+    "运维知识点/Nginx配置域名.md",
+    "前端知识点/Promise回调函数.md",
+    "前端知识点/Vue组件重新挂载.md",
+    "resource/clipboard.png",
+    "resource/clipboard (1).png"
   ]
 }
