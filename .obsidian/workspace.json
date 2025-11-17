@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "2fb6b61aa7540f32",
+    "id": "694aa91280ae2f89",
     "type": "split",
     "children": [
       {
-        "id": "edbd7e5f1d39b726",
+        "id": "a00edc531173649f",
         "type": "tabs",
         "children": [
           {
-            "id": "99399527099715e6",
+            "id": "bbd8490ad8f9bdd6",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "New tab"
             }
           }
         ]
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "345b707ae68d8237",
+    "id": "d50e2889f8adaac7",
     "type": "split",
     "children": [
       {
-        "id": "9cee66336633ecb4",
+        "id": "d21a3db55c34a5e7",
         "type": "tabs",
         "children": [
           {
-            "id": "b3d8a9d43b1b57b5",
+            "id": "9945181766311814",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,11 +40,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
-            "id": "d022cfd080cfb2d1",
+            "id": "f187120dfb6cef94",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -57,11 +57,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
-            "id": "f382fa9f8f474673",
+            "id": "c13965d9b61c606e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 300
   },
   "right": {
-    "id": "42cd5141be581d0d",
+    "id": "9fca16b9328eda48",
     "type": "split",
     "children": [
       {
-        "id": "d2fe203776625c2a",
+        "id": "9dbfdd7a05f10ee3",
         "type": "tabs",
         "children": [
           {
-            "id": "e84c88fba056983b",
+            "id": "bf707cd1db0de260",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "认知科学/通用范式技能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,40 +99,39 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 通用范式技能"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "dbf15e9ed98a7727",
+            "id": "6de361920865debe",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "认知科学/通用范式技能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 通用范式技能"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "5bacc2c26140f622",
+            "id": "b0fdabe3f7c47774",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
-            "id": "a3dae4289e465c17",
+            "id": "533c8832543394a8",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,22 +145,21 @@
             }
           },
           {
-            "id": "948b3f16e60e9ab3",
+            "id": "6759d1b82a4735da",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "认知科学/通用范式技能.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 通用范式技能"
+              "title": "Outline"
             }
           },
           {
-            "id": "c31bb15b02fbaf36",
+            "id": "9e58b8d2a3d138a6",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -172,72 +169,72 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 1055.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99399527099715e6",
+  "active": "bbd8490ad8f9bdd6",
   "lastOpenFiles": [
+    "工作理论知识/框架/spring/IOC和AOP.md",
+    "工作理论知识/resource/clipboard (12).png",
+    "工作理论知识/开发/java基础/JAVA/JDK JRE JVM.md",
+    "工作理论知识/resource/clipboard (19).png",
+    "工作理论知识/开发/java基础/JAVA/Java多线程.md",
+    "工作实践知识/错误集合/java Jedis连接不上.md",
+    "工作实践知识/resource/clipboard (3).png",
+    "工作实践知识/错误集合/java 错误 不支持发行版本 5.md",
+    "工作实践知识/resource/截图.png",
+    "工作实践知识/resource/截图 (5).png",
+    "工作实践知识/resource/clipboard.png",
+    "工作实践知识/resource/clipboard (1).png",
+    "工作实践知识/错误集合/mysql 1142-权限不足错误.md",
+    "工作实践知识/resource",
+    "工作实践知识/运维知识点/Nginx配置域名.md",
+    "工作实践知识/后端知识点/JPA缓存和对象管理机制.md",
+    "工作实践知识/后端知识点/JPA关联关系机制.md",
+    "工作实践知识/前端知识点/Vue组件重新挂载.md",
+    "工作实践知识/前端知识点/Promise回调函数.md",
+    "工作理论知识/README.md",
+    "工作理论知识/开发/java基础/JAVA/Java编译型与解释型.md",
+    "README.md",
     "认知科学/通用范式技能.md",
     "认知科学/README.md",
-    "工作理论知识/README.md",
-    "工作实践知识/README.md",
-    "工作理论知识/框架/spring/IOC和AOP.md",
-    "resource/clipboard (27).png",
-    "resource/clipboard (26).png",
-    "工作理论知识/开发/java基础/JAVA/Java多线程.md",
-    "工作理论知识/框架/spring",
-    "resource/clipboard (25).png",
-    "resource/clipboard (24).png",
-    "resource/clipboard (23).png",
-    "resource/clipboard (22).png",
-    "resource/clipboard (21).png",
-    "工作理论知识/开发/java基础/JAVA/Java编译型与解释型.md",
-    "resource/clipboard (20).png",
-    "工作理论知识/开发/java基础/JAVA/JDK JRE JVM.md",
-    "resource/clipboard (19).png",
-    "工作理论知识/开发/java基础/JAVA/Java反射机制.md",
-    "工作理论知识/开发/java基础/JAVA/Java的数据类型.md",
-    "resource/clipboard (18).png",
+    "认知科学",
     "工作理论知识/开发/java基础/JVM/类加载器和双亲委派机制.md",
     "工作理论知识/开发/java基础/JVM/堆内存以及方法区.md",
-    "工作理论知识/开发/java基础/JVM/JVM栈.md",
     "工作理论知识/开发/java基础/JVM/Native关键字.md",
+    "工作理论知识/开发/java基础/JVM/JVM栈.md",
     "工作理论知识/开发/java基础/JVM/JVM体系结构.md",
     "工作理论知识/开发/java基础/JVM/GC回收算法.md",
-    "工作实践知识/错误集合/java Jedis连接不上.md",
-    "工作理论知识/开发/java基础/JAVA",
+    "工作理论知识/开发/java基础/JAVA/Java的数据类型.md",
+    "工作理论知识/开发/java基础/JAVA/Java反射机制.md",
     "工作理论知识/开发/java基础/JVM",
-    "工作实践知识/错误集合/mysql 1142-权限不足错误.md",
-    "工作实践知识/错误集合/java 错误 不支持发行版本 5.md",
-    "resource",
-    "工作实践知识/错误集合",
-    "工作理论知识/开发/java.md",
-    "工作理论知识/框架",
+    "工作理论知识/开发/java基础/JAVA",
+    "工作理论知识/框架/spring",
     "工作理论知识/开发/java基础",
-    "工作实践知识/后端知识点/JPA缓存和对象管理机制.md",
+    "工作理论知识/框架",
     "工作理论知识/开发",
-    "工作实践知识/后端知识点/JPA关联关系机制.md",
-    "工作实践知识/运维知识点/Nginx配置域名.md",
-    "工作实践知识/前端知识点/Promise回调函数.md",
-    "工作实践知识/前端知识点/Vue组件重新挂载.md",
     "工作理论知识",
-    "README.md",
-    "Untitled.base"
+    "工作实践知识/错误集合",
+    "工作实践知识/README.md",
+    "工作实践知识/resource/截图 (4).png",
+    "工作实践知识/resource/截图 (3).png",
+    "工作实践知识/resource/截图 (1).png"
   ]
 }
