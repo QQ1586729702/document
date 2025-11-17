@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "e53452114885b909",
+    "type": "split",
+    "children": [
+      {
+        "id": "1df52d7ebcad04ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78fcb23ccc2ff760",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "通用范式技能.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "通用范式技能"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2cb78cb8d42b748f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f985a2d7b2c481f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f0bdc799d299710",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b07f7dbe9e988f0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6f278c15d2b8df54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76389ba1dd2e2c7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "483a829d0a6be87d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "897172ee6a3fc368",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "通用范式技能.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 通用范式技能"
+            }
+          },
+          {
+            "id": "d0b4f6dc5a3213a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "通用范式技能.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 通用范式技能"
+            }
+          },
+          {
+            "id": "89ebae51c921f8bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2d830d3392f29eae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e919bece3f40011c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "通用范式技能.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 通用范式技能"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "78fcb23ccc2ff760",
+  "lastOpenFiles": [
+    "README.md",
+    "Untitled.base"
+  ]
+}
