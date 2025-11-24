@@ -3,5 +3,11 @@
   "dataview",
   "obsidian-git",
   "obsidian-style-settings",
-  "editor-width-slider"
+  "editor-width-slider",
+  "templater-obsidian",
+  "calendar",
+  "obsidian-kanban",
+  "obsidian-outliner",
+  "various-complements",
+  "smart-random-note"
 ]
