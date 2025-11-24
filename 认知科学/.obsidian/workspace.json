@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "922c7158ec2b88b8",
+        "id": "c07cace5e126ca12",
         "type": "tabs",
         "children": [
           {
-            "id": "4463e9b7df8548a7",
+            "id": "f370f9c3199cd9cf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -196,9 +196,15 @@
   },
   "active": "1f0bdc799d299710",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "通用范式技能.md",
+    "00-通用范式技能.md",
     "README.md",
+    "06-template",
+    "05-流仪式",
+    "04-知识流",
+    "03-项目流",
+    "02-技能系统",
+    "01-流中心",
+    "未命名.canvas",
     "未命名看板.md",
     "Untitled.base"
   ]
