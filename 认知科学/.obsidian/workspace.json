@@ -11,10 +11,14 @@
             "id": "f370f9c3199cd9cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00-通用范式技能.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "00-通用范式技能"
             }
           }
         ]
@@ -167,8 +171,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -194,7 +198,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "1f0bdc799d299710",
+  "active": "f370f9c3199cd9cf",
   "lastOpenFiles": [
     "00-通用范式技能.md",
     "README.md",
