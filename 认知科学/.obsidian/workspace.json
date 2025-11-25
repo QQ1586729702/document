@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-通用范式技能.md",
-                "mode": "source",
+                "file": "00-流式思想.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-通用范式技能"
+              "title": "00-流式思想"
             }
           }
         ]
@@ -174,13 +174,23 @@
               "icon": "lucide-ghost",
               "title": "calendar"
             }
+          },
+          {
+            "id": "2180c4141a91436c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,7 +210,12 @@
   },
   "active": "f370f9c3199cd9cf",
   "lastOpenFiles": [
-    "00-通用范式技能.md",
+    "01-通用范式技能.md",
+    "00-流式思想.md",
+    "00-认知核心/00-元认知/00-流式模型.md",
+    "认知核心/未命名.md",
+    "00-认知核心/00-元认知",
+    "00-认知核心",
     "README.md",
     "06-template",
     "05-流仪式",
