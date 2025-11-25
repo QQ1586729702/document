@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c07cace5e126ca12",
+        "id": "0fd0d87b486746f7",
         "type": "tabs",
         "children": [
           {
-            "id": "f370f9c3199cd9cf",
+            "id": "846144c4adb2c2a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-流中心/00.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "00"
             }
           }
         ]
@@ -152,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "通用范式技能.md",
+                "file": "01-流中心/00.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 通用范式技能"
+              "title": "00 的大纲"
             }
           },
           {
@@ -170,12 +174,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "a028579b0ab81070",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 627.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -194,9 +209,10 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "1f0bdc799d299710",
+  "active": "846144c4adb2c2a7",
   "lastOpenFiles": [
     "00-通用范式技能.md",
+    "01-流中心/00.md",
     "README.md",
     "06-template",
     "05-流仪式",
