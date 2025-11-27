@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-流中心/00.md",
+                "file": "00-流式思想.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00"
+              "title": "00-流式思想"
             }
           }
         ]
@@ -211,8 +211,13 @@
   },
   "active": "846144c4adb2c2a7",
   "lastOpenFiles": [
-    "00-通用范式技能.md",
+    "01-通用范式技能.md",
     "01-流中心/00.md",
+    "00-通用范式技能.md",
+    "00-认知核心/00-元认知/00-流式模型.md",
+    "00-认知核心/00-元认知",
+    "00-认知核心",
+    "00-流式思想.md",
     "README.md",
     "06-template",
     "05-流仪式",
